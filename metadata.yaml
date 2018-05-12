@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31776'
     url: http://www.gutenberg.org/2009/agents/31776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26067#The-Life-of-Thomas-Lord-Cochrane-Tenth-Earl-of-Dundonald-Vol.-II
 gutenberg_issued: '2008-07-15'
 gutenberg_type: Text
 identifiers:
